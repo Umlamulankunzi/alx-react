@@ -113,7 +113,3 @@ By the end of this project, you should be able to explain:
 - **Task 2:** `task_2/dashboard/src/App/AppContext.js`, `task_2/dashboard/src/App/App.js`, `task_2/dashboard/src/Login/Login.js`, `task_2/dashboard/src/Header/Header.js`, `task_2/dashboard/src/Header/Header.test.js`, `task_2/dashboard/src/App/App.test.js`
 - **Task 3:** `task_3/dashboard/src/Footer/Footer.js`, `task_3/dashboard/src/Footer/Footer.test.js`, `task_3/dashboard/src/App/App.js`, `task_3/dashboard/src/App/App.test.js`, `task_3/dashboard/src/Notifications/Notifications.js`, `task_3/dashboard/src/Notifications/Notifications.test.js`
 - **Task 4:** `task_4/dashboard/src/CourseList/CourseListRow.js`
-
----
-
-This README provides a comprehensive overview of the project's goals, requirements, and tasks. Ensure to follow each step and tip to complete the project successfully. 
